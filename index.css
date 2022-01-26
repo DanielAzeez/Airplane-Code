@@ -1,0 +1,45 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    background-color: purple;
+}
+p{
+    font-family: Arial, Helvetica;
+    font-size: 35px;
+    color: white;
+    
+}
+input{
+    background-color: white;
+    height: 50px;
+    width: 500px;
+    color: white;
+    border: 1px solid white;
+
+    
+}
+.next{
+    color: white;
+}
+:placeholder-shown{
+    color: blue;
+}
+.nagga{
+    margin-left: 10px;
+    width: 382px;
+}
+.another{
+    width: 100px;
+    
+    display: flex;
+   
+}
+
+.nice{
+    margin: 150px 70px;
+}
+.againn{
+    height: 20px;
+    
+}
